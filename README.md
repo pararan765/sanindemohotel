@@ -1,24 +1,18 @@
-# README
+# 山陰デモHotel
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
+ホテルの紹介・実際の予約やマスターユーザーによる管理等<br/>
+実在しても役に立つようなページを作成しました。
 
-Things you may want to cover:
+## 期間
+- 2021/09/22 作業開始<br/>
 
-* Ruby version
+## 機能
+- 部屋・食事の紹介
+- レスポンシブデザインの導入
+- ユーザー管理機能
+- hotel予約機能
+- マスターユーザー管理機能
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 今後の展望
+- マスターユーザー管理機能の強化
